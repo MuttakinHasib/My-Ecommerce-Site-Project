@@ -7,7 +7,7 @@
             <li class="tabs-control" data-for-tab="4"><a href="#"><i class="material-icons">verified_user</i><span>Register User</span></a></li>
             <li class="tabs-control" data-for-tab="5"><a href="#"><i class="material-icons">alarm_on</i><span>Notification</span></a></li>
             <li class="tabs-control" data-for-tab="6"><a href="#"><i class="material-icons">build</i><span>Site Settings</span></a></li>
-            <li class="tabs-control" data-for-tab="7"><a href="../includes/logout.php"><i class="material-icons">power_settings_new</i><span>Log Out</span></a></li>
+            <li class="tabs-control" data-for-tab="7"><a href="includes/logout.php"><i class="material-icons">power_settings_new</i><span>Log Out</span></a></li>
         </ul>
     </div>
 </div>
